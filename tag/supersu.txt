@@ -1,0 +1,5 @@
+/extra #supersu *Super SU*
+_Latest_
+[On](http://download.chainfire.eu/supersu-latest) | [Off](https://forum.xda-developers.com/attachment.php?attachmentid=3931994&d=1478779893)
+_Other_
+[MTP Fixed](https://download.chainfire.eu/921/SuperSU/UPDATE-SuperSU-v2.65-20151226141550.zip?retrieve_file=1)

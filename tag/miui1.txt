@@ -1,0 +1,7 @@
+ /extra #miui1 *Stock ROM*
+_MIUI OFFICIAL_
+➡️ [Global](http://en.miui.com/download-323.html) | [China](http://www.miui.com/getrom-328.html?m=yes&mobile=2)
+_Other_
+➡️ [MIUI 8.2.1.0](https://yadi.sk/d/GVITsyD13HcV7e) Via MiFlash
+➡️ [MIUI 8.2.1.0](https://yadi.sk/d/kSdFLPb73HEyR7)  Restore via TWRP 3.0.3-0
+➡️ [MIUI 8.2.2.0](https://drive.google.com/file/d/0Bxl8V3oVV70rY3UxZS0wNVFYVnc/view?usp=drivesdk) Restore via TWRP 3.1.0-1

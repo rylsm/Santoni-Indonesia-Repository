@@ -1,0 +1,3 @@
+/extra #magisk *MAGISK*
+[Installer](http://tiny.cc/latestmagisk) | [Uninstaller](http://tiny.cc/latestuninstaller)
+[Bypass Safetynet](https://forum.xda-developers.com/apps/magisk/xiaomi-safetynet-fix-t3600431]

@@ -1,0 +1,5 @@
+/extra #miflash *MIFLASH*
+
+[7.4.25](https://xiaomifirmware.com/downloads/download-latest-version-mi-flash-tool-v-7-4-25/)
+
+NB: Support 32bit dan 64bit, 64bit mesti disable signature"

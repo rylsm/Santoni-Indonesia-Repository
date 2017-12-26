@@ -1,0 +1,5 @@
+/extra #xposed *XPOSED*
+_Manager_ : [Here](https://forum.xda-developers.com/devdb/project/?id=13191#downloads)
+_Framework_ : 
+• AOSP based: [6.0.1](http://dl-xda.xposed.info/framework/sdk23/arm64/) | [7.1.2](http://dl-xda.xposed.info/framework/sdk25/arm64/) 
+• MIUI based: [6.0.1](https://forum.xda-developers.com/attachment.php?attachmentid=3950455) | [7.1.2](https://t.me/redmi4xindo/184648)

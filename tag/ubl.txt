@@ -1,0 +1,3 @@
+/extra #ubl *Unlock Bootloader*
+[Request](http://www.miui.com/unlock/apply.php) | [Tool](http://miuirom.xiaomi.com/rom/u265827351/2.2.624.14/miflash_unlock-en-2.2.624.14.zip)
+[Fix Stuck 50%](http://www.gutorial.com/2016/12/cara-mengatasi-stuck-di-50-error-saat.html?m=1)

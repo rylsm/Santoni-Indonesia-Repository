@@ -1,0 +1,7 @@
+/extra #kernel [Clarity 1.2 (MIUI/LOS/AOSP)](https://forum.xda-developers.com/xiaomi-redmi-4x/development/kernel-clarity-t3719341)
+[Zegarr 1.5](https://t.me/Redmi4xroms/105)
+[Ghost](https://t.me/Redmi4xroms/68)
+[Pano : Nougat](https://t.me/redmi4xindo/269032) | [Oreo](https://t.me/redmi4xindo/269034)
+[Eximious](https://t.me/r4xchannel/209)
+[Beatrix (MIUI/LOS/AOSP)](https://www.worldgiz.com/Beatrix+Kernel+for+Redmi+4x+21DecBuild)
+[Hiperfire 1.8](https://t.me/r4xchannel/237)

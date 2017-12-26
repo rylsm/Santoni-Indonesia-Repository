@@ -56,25 +56,25 @@ _AIM ROM_
 
 [Download](https://forum.xda-developers.com/android/development/rom-aim-rom-v2-5-t3667075/post73644067#post73644067)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Android Ice Cold Project (AICP)
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aicp-12-1-santoni-t3668750)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Android Open Kang Project (AOKP)
 
 [Download](https://forum.xda-developers.com/android/development/-t3664435)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 AOSP Extended (AEX)
 
 [Download](https://www.androidfilehost.com/?fid=745849072291689225)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 AOSP
 
@@ -82,25 +82,25 @@ AOSP
 
 [Download JDC-AOSP](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-aosp-jdc-jdcteam-t3679303)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Atomic OS
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-atomic-os-t3670062)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Candy OS
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-candy7-os-final-v6-0-t3678965)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Citrus-CAF
 
 [Download](https://www.androidfilehost.com/?fid=962021903579484035)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Cypher OS
 
@@ -108,31 +108,31 @@ Cypher OS
 
 [Download Swapnil Soni Version](https://www.androidfilehost.com/?fid=745849072291681093)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 crDroid
 
 [Download](https://forum.xda-developers.com/android/development/rom-crdroid-v3-7-t3660746)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Dirty Unicorns (DU)
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-dirty-unicorns-redmi-4x-santoni-t3713052)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 dotOS
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/official-dotos-t3702468)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 FireHound ROM
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-firehound-rom-t3668873)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Halogen OS
 
@@ -140,19 +140,19 @@ Halogen OS
 
 [Download Swapnil Soni Version](https://forum.xda-developers.com/xiaomi-redmi-4x/development/xos-halogenos-santoni-t3691163)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Hexagon OS
 
 [Download](https://forum.xda-developers.com/android/development/rom-hexagon-rom-v2-5-t3664238)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 LegendROM
 
 [Download](https://forum.xda-developers.com/showpost.php?p=73949807&postcount=2)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 LineageOS (LOS)
 
@@ -162,37 +162,37 @@ LineageOS (LOS)
 
 [Download Pano01 Version](https://api.elebrus.tk/lineage)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 LineageOS Pixelized
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/pixel-2-rom-v1-redmi-4x-2017-11-04-t3700153)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 LiquidDark
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-liquiddark-redmi-4x-santoni-t3677716)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Mokee OS
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/official-mokee-official-redmi-4x-t3684858)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 NucleaROM
 
 [Download](http://4pda.ru/forum/index.php?showtopic=821670&st=3840#entry66887116)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 OmniROM
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-omnirom-t3706844)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Resurrection Remix (RR)
 
@@ -200,37 +200,37 @@ Resurrection Remix (RR)
 
 [Download Luis Version](https://forum.xda-developers.com/xiaomi-redmi-4x/development/unofficial-resurrection-remix-5-8-5-t3706456)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Slim ROM
 
 [Download](http://en.miui.com/thread-731746-1-1.html)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Tipsy OS
 
 [Download](https://forum.xda-developers.com/android/development/rom-tipsyos-v6-8-t3664748)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 The XPerience
 
 [Download](https://forum.xda-developers.com/android/general/oms7-xperience-11-1-2r24-t3650832#post73269185)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 ViperOS
 
 [Download](https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-viperos-xiaomi-redmi-4x-4-t3650108)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 XenonHD
 
 [Download](https://www.androidfilehost.com/?fid=889964283620758370)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+_______________________________
 
 Xperia Open Source Project (XOSP)
 
